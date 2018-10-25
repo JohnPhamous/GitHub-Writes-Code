@@ -1,3 +1,4 @@
+
 def draw_snowflake():
     from turtle import Turtle
     t = Turtle()
@@ -14,6 +15,10 @@ def draw_snowflake():
             t.circle(i,a)
             t.right(b)
             t.circle(i,a)
+
+
+#new line here
+class PurpleBananaMonkey(self, monkey_type = "Chimpanzee", color = "Purple"):  
 
 
 def main():
