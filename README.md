@@ -15,3 +15,5 @@ There's no initial end goal. Let's see what, as a community, we end up building.
 ## FAQ
 
 1. How do you import your new file into main.py?
+
+2. Which is better: tabs or spaces?
