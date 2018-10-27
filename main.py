@@ -2,6 +2,7 @@
 class PurpleBananaMonkey(self, monkey_type = "Chimpanzee", color = "Purple"):  
     def __init__():
         self.monkey_type = monkey_type
+        self.color = color
         
         
 def main():
