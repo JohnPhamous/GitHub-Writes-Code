@@ -1,6 +1,6 @@
 #new line here
 class PurpleBananaMonkey(self, monkey_type = "Chimpanzee", color = "Purple"):  
-    def __init__():
+    def __init__(monkey_type,color):
         self.monkey_type = monkey_type
         
         
