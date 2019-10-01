@@ -5,7 +5,11 @@ class PurpleBananaMonkey:
      
     def christmas_is_coming():
         pass
-        
+    
+    def isMonkey(monkey_type):
+        if (monkey_type):
+            return true
+
 
 def main():
     print('\n'.join(' ' * (10-x) + '*' * (x * 2 + 1) for x in range(10)) + '\n' + '\n'.join(' ' * 8 + '|' * 5 for x in range(4)))
