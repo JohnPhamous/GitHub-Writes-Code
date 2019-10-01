@@ -6,6 +6,10 @@ class PurpleBananaMonkey(self, monkey_type = "Chimpanzee", color = "Purple"):
      
     def christmas_is_coming():
         pass
+    
+    def isMonkey(monkey_type):
+        if (monkey_type):
+            return true
         
 
 def main():
