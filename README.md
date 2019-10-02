@@ -17,5 +17,6 @@ There's no initial end goal. Let's see what, as a community, we end up building.
 1. How do you import your new file into main.py?
 
 2. Which is better: tabs or spaces?
+Note: The answer is tabs. Unless when you press tab, your editor turns it into spaces.
 
 3. What is the best IDE?
