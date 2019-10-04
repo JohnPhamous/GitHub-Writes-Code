@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+#Might as well get this started again
 class PurpleBananaMonkey:  
     def __init__(self, monkey_type = "Chimpanzee", color = "Purple"):
         self.monkey_type = monkey_type
@@ -21,6 +23,7 @@ def main():
         print("https://github.com")
     elif choice == 2:
         print("https://facebook.com")
+
 
 
 if __name__ == "__main__":
