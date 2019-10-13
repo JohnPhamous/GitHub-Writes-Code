@@ -23,6 +23,8 @@ def main():
         print("https://github.com")
     elif choice == 2:
         print("https://facebook.com")
+    elif choice == 3:
+        print("https://twitter.com/")
 
 
 
